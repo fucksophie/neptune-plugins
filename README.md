@@ -1,5 +1,5 @@
 # [Tidal Neptune](https://github.com/Inrixia/neptunectl/releases/tag/latest) Plugins
-
+(this repo is unofficial with unofficial fixes, do not use it if you don't know what you're doing!)
 This is a repository containing plugins I have made for the [Tidal Neptune Client](https://github.com/Inrixia/neptunectl/releases/tag/latest).
 
 Want to chat, ask questions or hang out? Join the discord! **[discord.gg/jK3uHrJGx4](https://discord.gg/jK3uHrJGx4)**
